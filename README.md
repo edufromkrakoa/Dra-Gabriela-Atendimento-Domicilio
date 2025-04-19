@@ -18,6 +18,6 @@ Criação de um site com layout responsivo, inspirado na prática clinica da fis
 ## 🛠 Tecnologias Utilizados
 | Front-end | Ferramentas |
 |-------|-------|
-|* HTML5|* Bootstrap|
-|* CSS|* jQuery|
-|* JavaScript|* Git|
+| * HTML5| * Bootstrap|
+| * CSS| * jQuery|
+| * JavaScript| * Git|
